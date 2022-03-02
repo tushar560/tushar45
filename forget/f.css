@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+    text-align: center;
+    margin: 5x;
+}
+h3{
+    font-size: 40px;
+}
+.email{
+    width: 50%;
+    height: 25px;
+    border-color: blue;
+}
+.button{
+    width: 35%;
+    height: 25px;
+    border-color: blue;
+    background-color: blue;
+}
+.fm{
+    margin-top: 9%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: aquamarine;
+}

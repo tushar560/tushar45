@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+    margin: 5px;
+    text-align: center;
+}
+.me{
+    width: 60%;
+    height:25px ;
+}
+.np{
+    width: 60%;
+    height: 25px;
+}
+.sp{
+    width: 45%;
+    height: 25px;
+    background-color: blue;
+}
